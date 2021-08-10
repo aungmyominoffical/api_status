@@ -1,6 +1,6 @@
 {
-	"version": 2,
-	"versioncode":"1.0.1",
+	"version": 1,
+	"versioncode":"1.0.0",
 	"status": "Add New Feature",
 	"url": "https://play.google.com/store/apps/details?id=com.jsonview.shortwave"
 
